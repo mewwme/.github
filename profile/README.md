@@ -30,7 +30,7 @@ Visit [meww.me](https://meww.me) to learn more!
 <p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
 <p align="center">
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/z3nth10n)
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/mewwme)
 
 </p>
 
