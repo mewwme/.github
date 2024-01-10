@@ -41,3 +41,17 @@ To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow 
 ## NOTICE
 
 Once our official bot gets to 100+ discord servers, we will <b>OPEN SOURCE IT</b>.
+
+
+----
+
+<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
+<p align="center">
+  <a href="https://www.patreon.com/mewwme">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Support us on Patreon">
+  </a>
+</p>
+
+
+###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
+<!-- Heavily inspired by https://github.com/crunchy-lab !-->
