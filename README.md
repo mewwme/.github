@@ -5,7 +5,7 @@
 
 # Mewwme's Discord Bot
 
-Listen to your favourite music on discord with your friends!
+#### Listen to your favourite music on discord with your friends!
 The Discord music bot that's 100% free with no payment or votes required to access all its amazing functionalities.
 
 ## Features
@@ -34,7 +34,7 @@ To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow 
 - `/play [song name/url]`: Start playing music from a specific song.
 - `/radio`: View the station station.
 - `/radio <sequence_number>`: To play the radio
-- `/lofi`: Play lofi
+- `/lofi`: Listening to relaxing and soothing music in the "lofi" style.
 - `/247 <enable/disable`: Command to activate or deactivate the 24/7 music streaming feature.
 - `/help`: The display all commands
 
