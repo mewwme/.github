@@ -1,29 +1,45 @@
-<div align="center">
-  <strong>
-      <p>Mewwme's - Listen to your favourite music on discord with your friends!</p>
-    <p>The Discord music bot that's 100% free with no payment or votes required to access all its amazing functionalities.</p>
-  </strong>
-<h3 align="center">
-
-![](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
-[![discord](https://img.shields.io/badge/Invite_Bot-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6EXgrmtkPX&scope=guilds.join+bot+applications.commands)](https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6EXgrmtkPX&scope=guilds.join+bot+applications.commands)
-[![GitHub followers](https://img.shields.io/github/followers/miu-discord?label=Follow&style=social)](https://github.com/mewwme)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/6EXgrmtkPX)](https://discord.gg/6EXgrmtkPX)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://meww.me)
-<p align="center"> 
-  <a href="https://discord.gg/6EXgrmtkPX" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
+<!-- Centered Header Image -->
+<p align="center">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&redirect_uri=https%3A%2F%2Fmewwme.is-a.fun%2Fthankyou&response_type=code&scope=bot%20applications.commands%20guilds">
+    <img src="https://cdn.is-a.fun/mewwme/meww.png" alt="Radio-Stream Banner">
+  </a>
 </p>
-</h3>
-</div>
+
+
+# Mewwme's Discord Bot
+
+#### Listen to your favourite music on discord with your friends!
+The Discord music bot that's 100% free with no payment or votes required to access all its amazing functionalities.
 
 ## Features
-- Music 24/7
-- Music Filters
-- Music Playlist
-- Unlock Premium Features
-- Spotify, Soundcloud, Twitch, Bandcamp & More...
-Visit [meww.me](https://meww.me) to learn more!
 
+- 🎵 24/7 Music play: Enjoy listening music source Spotify, Soundcloud, Twitch, Bandcamp and more..
+- 📻 Radio : Enjoy uninterrupted music streaming from various radio stations.
+- 🎧 Lofi : Listening to relaxing and soothing music in the "lofi" style.
+- 🚀 Playlist : Creating, Play and managing personal playlists to listen to your favorite music.
+- 🎶 25+ Filters : Over 25 filters available to refine and tailor the music listening experience.
+- 🔒 Secure and Reliable: The application is secure and reliable, ensuring privacy and stable service availability.
+
+## Usage
+
+To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow these steps:
+
+1. [Click here](https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&redirect_uri=https%3A%2F%2Fmewwme.is-a.fun%2Fthankyou&response_type=code&scope=bot%20applications.commands%20guilds) to invite Mewwme's to your server.
+2. Once you've decided to use the best companion on Discord, then you can continue to invite it to your favorite server! Tap or click the Select a server button. A pop-up should appear that will let you select where you'd like to add Mewwme.
+3. Once you've selected the server that you'd like to add Mewwme to, you can press the Continue button on the bottom right of the menu.
+> NOTE: If you want to disable Administrator permission from Mewwme, it will not work properly! You will still be able to listen to basic music features but some things won't work.
+4. **Final Step** Once you press the Authorize button and complete the Captcha, you should be redirected to our thank-you page. In addition, you'll also see a message like the one below in your Discord server. Spectacular!
+*Now let's get the party started by playing some songs!*
+
+## Commands
+### Support Slash command & Prefix command (customizable prefix)
+
+- `/play [song name/url]`: Start playing music from a specific song.
+- `/radio`: View the station station.
+- `/radio <sequence_number>`: To play the radio
+- `/lofi`: Listening to relaxing and soothing music in the "lofi" style.
+- `/247 <enable/disable`: Command to activate or deactivate the 24/7 music streaming feature.
+- `/help`: The display all commands
 
 ----
 
