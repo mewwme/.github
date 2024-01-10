@@ -1,7 +1,10 @@
 <!-- Centered Header Image -->
 <p align="center">
-  <img src="https://cdn.is-a.fun/mewwme/meww.png" alt="Mewwme Logo">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&redirect_uri=https%3A%2F%2Fmewwme.is-a.fun%2Fthankyou&response_type=code&scope=bot%20applications.commands%20guilds">
+    <img src="https://cdn.is-a.fun/mewwme/meww.png" alt="Radio-Stream Banner">
+  </a>
 </p>
+
 
 # Mewwme's Discord Bot
 
