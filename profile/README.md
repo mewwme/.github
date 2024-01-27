@@ -1,7 +1,7 @@
 <!-- Centered Header Image -->
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6EXgrmtkPX&scope=guilds.join+bot+applications.commands">
-    <img src="https://cdn.is-a.fun/mewwme/bot/mewgithub.png" alt="Mewwme Banner">
+    <img src="https://cdn.is-a.fun/bot/mewwme/mewgithub.png" alt="Mewwme Banner">
   </a>
 </p>
 
@@ -49,7 +49,6 @@ To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow 
     <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Support us on Patreon">
   </a>
 </p>
-
 
 ###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
 <!-- Heavily inspired by https://github.com/crunchy-lab !-->
