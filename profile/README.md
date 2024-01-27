@@ -1,7 +1,7 @@
 <!-- Centered Header Image -->
 <p align="center">
-  <a href="https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&redirect_uri=https%3A%2F%2Fmewwme.is-a.fun%2Fthankyou&response_type=code&scope=bot%20applications.commands%20guilds">
-    <img src="https://cdn.is-a.fun/mewwme/meww.png" alt="Radio-Stream Banner">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6EXgrmtkPX&scope=guilds.join+bot+applications.commands">
+    <img src="https://cdn.is-a.fun/mewwme/bot/mewgithub.png" alt="Mewwme Banner">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ The Discord music bot that's 100% free with no payment or votes required to acce
 
 To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow these steps:
 
-1. [Click here](https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&redirect_uri=https%3A%2F%2Fmewwme.is-a.fun%2Fthankyou&response_type=code&scope=bot%20applications.commands%20guilds) to invite Mewwme's to your server.
+1. [Click here](https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6EXgrmtkPX&scope=guilds.join+bot+applications.commands) to invite Mewwme's to your server.
 2. Once you've decided to use the best companion on Discord, then you can continue to invite it to your favorite server! Tap or click the Select a server button. A pop-up should appear that will let you select where you'd like to add Mewwme.
 3. Once you've selected the server that you'd like to add Mewwme to, you can press the Continue button on the bottom right of the menu.
 > NOTE: If you want to disable Administrator permission from Mewwme, it will not work properly! You will still be able to listen to basic music features but some things won't work.
@@ -38,7 +38,7 @@ To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow 
 - `/radio`: View the station station.
 - `/radio <sequence_number>`: To play the radio
 - `/lofi`: Listening to relaxing and soothing music in the "lofi" style.
-- `/247 <enable/disable`: Command to activate or deactivate the 24/7 music streaming feature.
+- `/247 <enable/disable>`: Command to activate or deactivate the 24/7 music streaming feature.
 - `/help`: The display all commands
 
 ----
