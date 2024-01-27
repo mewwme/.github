@@ -50,6 +50,5 @@ To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow 
   </a>
 </p>
 
-
 ###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
 <!-- Heavily inspired by https://github.com/crunchy-lab !-->
