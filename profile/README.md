@@ -1,7 +1,7 @@
 <!-- Centered Header Image -->
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=551940385840&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6EXgrmtkPX&scope=guilds.join+bot+applications.commands">
-    <img src="https://cdn.is-a.fun/bot/mewwme/mewgithub.png" alt="Mewwme Banner">
+    <img src="https://cdn.is-a.fun/bot/mewwme/mehelp.png" alt="Mewwme Banner">
   </a>
 </p>
 
