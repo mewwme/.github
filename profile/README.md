@@ -1,7 +1,7 @@
 <!-- Centered Header Image -->
 <p align="center">
   <a href="https://canary.discord.com/oauth2/authorize?client_id=928711702596423740">
-    <img src="https://cdn.meww.me/bot/mewwme/mehelp.png" alt="Mewwme Banner">
+    <img src="https://cdn.meww.me/bot/mews/mehelp.png" alt="Mewwme Banner">
   </a>
 </p>
 
