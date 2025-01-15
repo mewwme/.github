@@ -1,7 +1,7 @@
 <!-- Centered Header Image -->
 <p align="center">
   <a href="https://canary.discord.com/oauth2/authorize?client_id=928711702596423740">
-    <img src="https://cdn.meww.me/bot/mews/mehelp.png" alt="Mewwme Banner">
+    <img src="https://assetsme.vercel.app/bot/mews/mehelp.png" alt="Mewwme Banner">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ The Discord music bot that's 100% free with no payment or votes required to acce
 
 To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow these steps:
 
-1. [Click here](https://canary.discord.com/oauth2/authorize?client_id=928711702596423740) to invite Mewwme's to your server.
+1. [Click here](https://canary.discord.com/oauth2/authorize?client_id=928966154817523723) to invite Mewwme's to your server.
 2. Once you've decided to use the best companion on Discord, then you can continue to invite it to your favorite server! Tap or click the Select a server button. A pop-up should appear that will let you select where you'd like to add Mewwme.
 3. Once you've selected the server that you'd like to add Mewwme to, you can press the Continue button on the bottom right of the menu.
 > NOTE: If you want to disable Administrator permission from Mewwme, it will not work properly! You will still be able to listen to basic music features but some things won't work.
